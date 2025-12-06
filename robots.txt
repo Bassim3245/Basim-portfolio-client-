@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block internal API routes (if any)
+Disallow: /api/
+
+Sitemap: https://bassimhussein.com/sitemap.xml

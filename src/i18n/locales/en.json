@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "expertise": "Our Expertise",
+    "services": "Our Services",
+    "projects": "Projects Portfolio",
+    "contact": "Contact Us",
+    "language": "العربية"
+  },
+  "hero": {
+    "title": "Modern Programming & Technology Solutions",
+    "subtitle": "We provide innovative solutions in programming, artificial intelligence, and IoT to help you achieve your technical goals",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted partner in technology and innovation",
+    "description": "We are a specialized team in programming and modern technologies, providing comprehensive solutions in artificial intelligence, IoT, and custom software development. Our mission is to deliver high-quality educational and technical services.",
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the leading provider of innovative technology solutions in the Arab world and globally."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Providing high-quality technical solutions and educational services that help our clients achieve their goals."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": "Innovation",
+      "quality": "Quality",
+      "education": "Education",
+      "support": "Customer Support"
+    }
+  },
+  "expertise": {
+    "title": "Our Expertise",
+    "subtitle": "Advanced technical skills and modern tools",
+    "skills": {
+      "programming": {
+        "title": "Programming Languages",
+        "description": "Proficiency in modern programming languages"
+      },
+      "ai": {
+        "title": "Artificial Intelligence",
+        "description": "Advanced AI solutions and machine learning"
+      },
+      "iot": {
+        "title": "Internet of Things",
+        "description": "Smart IoT solutions and connected devices"
+      },
+      "web": {
+        "title": "Web Development",
+        "description": "Modern web applications and responsive design"
+      }
+    },
+    "technologies": {
+      "title": "Technologies We Use",
+      "php": "PHP & Laravel",
+      "node": "Node.js & Express",
+      "python": "Python & Django",
+      "react": "React & Next.js",
+      "ai_tools": "TensorFlow & OpenCV",
+      "databases": "MySQL & MongoDB"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your technical needs",
+    "education": {
+      "title": "Educational Services",
+      "description": "Online courses and graduation project programming for students",
+      "features": [
+        "Interactive online courses",
+        "Graduation project development",
+        "Technical mentoring",
+        "Practical training"
+      ]
+    },
+    "custom": {
+      "title": "Custom Solutions",
+      "description": "Custom project implementation and AI & IoT solutions",
+      "features": [
+        "Custom software development",
+        "AI-powered applications",
+        "IoT system integration",
+        "Technical consulting"
+      ]
+    },
+    "cta": "Learn More"
+  },
+  "projects": {
+    "title": "Projects Portfolio",
+    "subtitle": "Showcase of our previous work and achievements",
+    "viewDetails": "View Details",
+    "technologies": "Technologies Used",
+    "category": "Category",
+    "items": {
+      "handDetection": {
+        "title": "Hand Detection System",
+        "description": "Smart system for detecting and tracking hand movements using AI",
+        "category": "Artificial Intelligence"
+      },
+      "eyeDisease": {
+        "title": "Eye Disease Detection",
+        "description": "Eye disease diagnosis system using deep learning techniques",
+        "category": "Medical AI"
+      },
+      "imageEncryption": {
+        "title": "Image Encryption",
+        "description": "Advanced image encryption system for data security",
+        "category": "Cybersecurity"
+      },
+      "textEncryption": {
+        "title": "Text Encryption",
+        "description": "Secure text encryption and decryption system",
+        "category": "Cybersecurity"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for your next project",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "social": "Follow Us"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must be at least 10 characters"
+    }
+  },
+  "footer": {
+    "company": "Company Portfolio",
+    "description": "Your trusted partner in programming and modern technology solutions",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "readMore": "Read More",
+    "showLess": "Show Less"
+  }
+}
