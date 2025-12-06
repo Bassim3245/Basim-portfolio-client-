@@ -5,42 +5,42 @@
 
   <!-- Home -->
   <url>
-    <loc>https://bassimhussein.com/</loc>
+    <loc>https://basiportfolio.vercel.app/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <!-- About -->
   <url>
-    <loc>https://bassimhussein.com/about</loc>
+    <loc>https://basiportfolio.vercel.app/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Expertise -->
   <url>
-    <loc>https://bassimhussein.com/expertise</loc>
+    <loc>https://basiportfolio.vercel.app/expertise</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Services -->
   <url>
-    <loc>https://bassimhussein.com/services</loc>
+    <loc>https://basiportfolio.vercel.app/services</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Projects -->
   <url>
-    <loc>https://bassimhussein.com/projects</loc>
+    <loc>https://basiportfolio.vercel.app/projects</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Contact -->
   <url>
-    <loc>https://bassimhussein.com/contact</loc>
+    <loc>https://basiportfolio.vercel.app/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
